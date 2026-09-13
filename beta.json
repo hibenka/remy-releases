@@ -1,0 +1,10 @@
+{
+  "version": "0.9.0",
+  "build": 1,
+  "channel": "beta",
+  "minimumMacOS": "14.0",
+  "dmgURL": "https://github.com/hibenka/remy-releases/releases/download/v0.9.0-beta.1/Remy-0.9.0-1.dmg",
+  "sha256": "aecd9aa357bc725edd7308050844abf2f74f48224af4c2b1ce848133ebe0157b",
+  "notes": "Remy Beta 0.9.0 (1)",
+  "publishedAt": "2026-09-13T23:49:38Z"
+}
