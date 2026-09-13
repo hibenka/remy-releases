@@ -1,6 +1,6 @@
 # Remy Beta privacy notice
 
-Last updated: 13 September 2026
+Last updated: 14 September 2026
 
 Remy reads and changes reminders through Apple's EventKit framework after the user grants permission. Reminder titles, notes, dates, lists, locations, parser input and Calendar content are not sent to Remy's feedback or licensing services.
 
@@ -12,4 +12,4 @@ Remy does not include behavioural analytics or advertising tracking in this beta
 
 Keygen is used for beta licence activation and validation. Google Apps Script and a private Google Sheet are used to receive feedback. GitHub hosts downloadable releases and the update manifest. Each provider processes the technical network data necessary to operate its service under its own terms.
 
-Contact and deletion-request details will be added before the first downloadable beta is published.
+To request deletion of beta feedback, use the private [support form](https://docs.google.com/forms/d/e/1FAIpQLSd_WUSUm1IOx_NiRY_ImQ70vSM2ksVTHnokpzQ_ag4jqi6W3Q/viewform). Include enough information to locate the submission, but never include an activation key or reminder content.
