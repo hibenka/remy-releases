@@ -8,7 +8,7 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Remy 0.9.0 Beta 2
+            <description sparkle:format="markdown"><![CDATA[# Remy 0.9.1 Beta (build 3)
 
 Remy is a focused macOS menu bar companion for Apple Reminders.
 
