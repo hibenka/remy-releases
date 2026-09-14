@@ -1,4 +1,4 @@
-# Remy 0.9.0 Beta 1
+# Remy 0.9.0 Beta 2
 
 Remy is a focused macOS menu bar companion for Apple Reminders.
 
