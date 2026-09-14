@@ -10,6 +10,12 @@ Remy is a focused macOS menu bar companion for Apple Reminders.
 - Opt individual reminders into Intensive Mode for local follow-up notifications and Notch feedback.
 - Create reminders from selected text through the macOS Services menu.
 
+## Beta refinements
+
+- A dedicated Remy Beta icon makes this build easy to distinguish.
+- Settings > Lists now scrolls smoothly with a trackpad or mouse wheel.
+- About can check for signed updates and optionally check automatically each day.
+
 ## Before installing
 
 - Requires macOS 14 or later on Apple silicon or Intel.
